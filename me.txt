@@ -1,5 +1,1 @@
-{{#user}}
-Name: MANAV KHATTAR
-Skills: HTML, CSS, JS
-Email: manavkhattar26@gmail.com
-{{/user}}
+
